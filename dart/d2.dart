@@ -11,7 +11,7 @@ print('Height: $height');
 
 
 
-String name = 'ironman';
+String name = 'Zara';
 print('Hello, $name!');
 
 
@@ -25,8 +25,8 @@ print(skills[0]);
 
 //📍Map → Key-value pairs
 Map<String, String> user = {
-  'name': 'ironman',
-  'city': 'royal',
+  'name': 'Zara',
+  'city': 'Shahpur',
 };
 print(user['city']);
 }
