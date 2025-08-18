@@ -1,4 +1,4 @@
-// 🧩  Extensions – موجودہ کلاس کو بڑھانا
+// 🧩  Extensions – 
 // 🔹 Definition:
 // An extension lets you add methods or properties to existing classes—even built-in ones—without modifying them.
 // Use extension keyword.
